@@ -17,7 +17,7 @@
 ![Create](/images/create.png)
 
 # EDIT BLOG PAGE
-##### USERS CAN EDIT THEIR CREATED BLOGS.
+##### USERS CAN EDIT THEIR CREATED BLOGS USING EDIT, DELETE ICON.
 ![Edit](/images/edit.png)
 
 # COMMENTS SECTION
